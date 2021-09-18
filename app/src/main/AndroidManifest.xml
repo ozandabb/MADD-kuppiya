@@ -10,7 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MADDKuppiya">
 
+
         <activity android:name=".mindula"></activity>
+
+            android:name=".Mihiranga"
+            android:exported="true" />
+
 
         <activity android:name=".Osanda"></activity>
 
