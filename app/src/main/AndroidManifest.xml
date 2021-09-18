@@ -13,6 +13,7 @@
 
         <activity android:name=".mindula"></activity>
 
+        <activity
             android:name=".Mihiranga"
             android:exported="true" />
 
